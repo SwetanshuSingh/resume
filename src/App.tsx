@@ -7,7 +7,7 @@ import "./index.css";
 const App = () => {
   return (
     <main className="w-full min-h-screen bg-[#121212] text-[#d4d4d4] flex justify-center py-10">
-      <section className="w-2/4 flex flex-col gap-14">
+      <section className="lg:w-2/4 flex flex-col gap-14 px-4">
         <Navbar />
         <AboutSection />
         <WorkSection />
