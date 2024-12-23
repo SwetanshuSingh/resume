@@ -2,7 +2,7 @@ import { Github } from "lucide-react";
 
 const Navbar = () => {
   return (
-    <nav className="w-full flex justify-between items-end">
+    <nav className="w-full flex justify-between items-center">
       <h2 className="text-lg font-medium">
         swetan<span className="text-slate-400">shu</span>
       </h2>
